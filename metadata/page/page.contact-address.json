@@ -1,0 +1,74 @@
+{
+  "_id": "page.contact-address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact-address--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "$field": true,
+          "_id": "page.contact-address--fieldset--text.auto_name__14",
+          "_type": "text",
+          "label": "Building and street",
+          "name": "auto_name__14",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "$field": true,
+          "_id": "page.contact-address--fieldset--text.auto_name__15",
+          "_type": "text",
+          "label": "Address line 2",
+          "labelhide": true,
+          "name": "auto_name__15",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "$field": true,
+          "_id": "page.contact-address--fieldset--text.auto_name__16",
+          "_type": "text",
+          "label": "Town or city",
+          "name": "auto_name__16",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "$field": true,
+          "_id": "page.contact-address--fieldset--text.auto_name__17",
+          "_type": "text",
+          "label": "County",
+          "name": "auto_name__17",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.contact-address--fieldset--text.auto_name__18",
+          "_type": "text",
+          "label": "Postcode",
+          "name": "auto_name__18",
+          "widthClassInput": "one-third"
+        }
+      ],
+      "legend": "Enter the address of the person you are contacting us for (optional)"
+    }
+  ],
+  "url": "contact-address"
+}

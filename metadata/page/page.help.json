@@ -1,0 +1,17 @@
+{
+  "_id": "page.help",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.help--textarea.auto_name__23",
+      "_type": "textarea",
+      "hint": "Give a brief summary of what you would like us to do. Do not include any personal or financial information like your bank account or credit card number.",
+      "label": "Tell us how we can help",
+      "name": "auto_name__23",
+      "validation": {
+        "maxLength": 500
+      }
+    }
+  ],
+  "url": "help"
+}

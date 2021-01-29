@@ -1,0 +1,22 @@
+{
+  "_id": "page.your-date-of-birth",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-date-of-birth--date.auto_name__5",
+      "_type": "date",
+      "legend": "Enter your date of birth",
+      "name": "auto_name__5"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "steps": [
+    "page.your-address"
+  ],
+  "url": "your-date-of-birth"
+}

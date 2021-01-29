@@ -1,0 +1,17 @@
+{
+  "_id": "page.details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.details--textarea.auto_name__22",
+      "_type": "textarea",
+      "hint": "Give a brief summary of your question or problem. Do not include any personal or financial information like your bank account or credit card number.",
+      "label": "Tell us about your enquiry",
+      "name": "auto_name__22",
+      "validation": {
+        "maxLength": 500
+      }
+    }
+  ],
+  "url": "details"
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "page.cica-reference",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cica-reference--text.auto_name__7",
+      "_type": "text",
+      "hint": "You will find this on emails and letters from us about your claim.\r\n\r\nFor example, xxxxxx",
+      "label": "Enter your CICA reference",
+      "name": "auto_name__7"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__19",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "steps": [
+    "page.date-of-incident--2"
+  ],
+  "url": "cica-reference"
+}

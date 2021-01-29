@@ -1,0 +1,8 @@
+{
+  "_id": "page.your-answers",
+  "_type": "page.summary",
+  "actionType": "custom-1",
+  "sendBody": "Your personal information will be handled sensitively and in line with our [privacy notice](https://www.gov.uk/guidance/cica-privacy-notice).",
+  "sendHeading": "Ready to send? ",
+  "url": "your-answers"
+}

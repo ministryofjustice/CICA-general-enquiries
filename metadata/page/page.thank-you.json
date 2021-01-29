@@ -1,0 +1,7 @@
+{
+  "_id": "page.thank-you",
+  "_type": "page.confirmation",
+  "heading": "Your enquiry has been sent",
+  "lede": "We will get back to you within 10 working days.",
+  "url": "thank-you"
+}

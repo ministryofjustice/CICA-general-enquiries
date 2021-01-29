@@ -1,0 +1,27 @@
+{
+  "_id": "page.contacting-for",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contacting-for--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.contacting-for--radios.auto_name__4--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Myself",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.contacting-for--radios.auto_name__4--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Someone else",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Who are you contacting us for?",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "contacting-for"
+}
