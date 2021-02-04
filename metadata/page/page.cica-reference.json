@@ -14,7 +14,7 @@
   "show": {
     "identifier": "auto_name__19",
     "operator": "is",
-    "value": "auto_value__2"
+    "value": "auto_value__1"
   },
   "steps": [
     "page.date-of-incident--2"

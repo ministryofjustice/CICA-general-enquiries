@@ -5,7 +5,7 @@
     {
       "_id": "page.contacts-date-of-birth--date.auto_name__13",
       "_type": "date",
-      "hint": "We will use this to match your enquiry with our records.\r\n\r\n[% hint.date %]",
+      "hint": "[% hint.date %]",
       "legend": "Enter the date of birth of the person you are contacting us for (optional)",
       "name": "auto_name__13",
       "validation": {
