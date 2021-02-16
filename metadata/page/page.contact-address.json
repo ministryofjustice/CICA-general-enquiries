@@ -64,6 +64,9 @@
           "_type": "text",
           "label": "Postcode",
           "name": "auto_name__18",
+          "validation": {
+            "required": false
+          },
           "widthClassInput": "one-third"
         }
       ],
