@@ -41,7 +41,11 @@
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--3",
           "_type": "radio",
           "label": "Subject access request",
-          "show": true,
+          "show": {
+            "identifier": "auto_name__19",
+            "operator": "is",
+            "value": "auto_value__1"
+          },
           "value": "auto_value__2"
         },
         {
@@ -105,6 +109,17 @@
           "$definition": true,
           "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--8",
+          "_type": "radio",
+          "label": "Subject access request",
+          "show": {
+            "identifier": "auto_name__19",
+            "operator": "is",
+            "value": "auto_value__2"
+          },
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--7",
           "_type": "radio",
           "label": "Something else",
           "value": "auto_value__2"
