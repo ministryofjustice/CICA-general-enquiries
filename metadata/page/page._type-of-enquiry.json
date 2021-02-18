@@ -96,7 +96,7 @@
           "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--6",
           "_type": "radio",
-          "label": "Freedom of information",
+          "label": "Subject access request",
           "show": {
             "identifier": "auto_name__19",
             "operator": "is",
@@ -110,7 +110,7 @@
           "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--8",
           "_type": "radio",
-          "label": "Subject access request",
+          "label": "Freedom of information",
           "show": {
             "identifier": "auto_name__19",
             "operator": "is",
