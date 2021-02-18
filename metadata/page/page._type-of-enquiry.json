@@ -7,6 +7,9 @@
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2",
           "_type": "radio",
           "label": "Update request",
@@ -18,9 +21,12 @@
           "value": "auto_value__2"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--2",
           "_type": "radio",
-          "label": "Representatives",
+          "label": "Payment enquiry",
           "show": {
             "identifier": "auto_name__19",
             "operator": "is",
@@ -29,31 +35,22 @@
           "value": "auto_value__2"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--3",
           "_type": "radio",
-          "label": "Payments",
-          "show": {
-            "identifier": "auto_name__19",
-            "operator": "is",
-            "value": "auto_value__1"
-          },
+          "label": "Subject access request",
+          "show": true,
           "value": "auto_value__2"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--4",
           "_type": "radio",
-          "label": "Provide information",
-          "show": {
-            "identifier": "auto_name__19",
-            "operator": "is",
-            "value": "auto_value__1"
-          },
-          "value": "auto_value__2"
-        },
-        {
-          "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--5",
-          "_type": "radio",
-          "label": "Make an application",
+          "label": "Help with making an application",
           "show": {
             "identifier": "auto_name__19",
             "operator": "is",
@@ -62,9 +59,26 @@
           "value": "auto_value__2"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--5",
+          "_type": "radio",
+          "label": "Help with CICA digital services",
+          "show": {
+            "identifier": "auto_name__19",
+            "operator": "is",
+            "value": "auto_value__2"
+          },
+          "value": "auto_value__2"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__1",
           "_type": "radio",
-          "label": "Support with CICA digital services",
+          "label": "General enquiry",
           "show": {
             "identifier": "auto_name__19",
             "operator": "is",
@@ -73,9 +87,12 @@
           "value": "auto_value__1"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--6",
           "_type": "radio",
-          "label": "General enquiry",
+          "label": "Freedom of information",
           "show": {
             "identifier": "auto_name__19",
             "operator": "is",
@@ -84,17 +101,9 @@
           "value": "auto_value__2"
         },
         {
-          "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--7",
-          "_type": "radio",
-          "label": "SAR",
-          "show": {
-            "identifier": "auto_name__19",
-            "operator": "is",
-            "value": "auto_value__2"
-          },
-          "value": "auto_value__2"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page._type-of-enquiry--radios.auto_name__21--radio.auto_value__2--8",
           "_type": "radio",
           "label": "Something else",
